@@ -1,0 +1,7 @@
+_id: 57eb82b0-4646-11ec-84e7-1fd361f16e5b
+name: Dr Frasier Crane
+message: >-
+  Any resource of the aforementioned types can be minified using
+  resources.Minify which takes for argument the resource object.
+post: first-post
+date: '2021-11-15T19:00:47.895Z'
